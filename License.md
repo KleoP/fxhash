@@ -1,0 +1,1 @@
+The license basics, you may copy my sketch.js fx(hash) template as long as you credit Margarine O'Leo as the creator. You may alter it. You may use it for commercial resale. Just give credit, and this credit notice must be required in whatever copyright you put on your code.
